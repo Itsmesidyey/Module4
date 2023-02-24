@@ -6,7 +6,7 @@
 
 using System.Linq.Expressions;
 
-namespace Module4
+namespace Module4_Arithmetic_Calculator
 
 {
     public partial class Arithmetic : Form
