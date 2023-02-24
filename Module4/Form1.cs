@@ -1,6 +1,12 @@
+/*
+* Module 4: Assesstment
+* Casinsinan, Cj C.
+* BSCS 3-1N
+*/
+
 using System.Linq.Expressions;
 
-namespace Module4
+namespace Module4_Arithmetic_Calculator
 
 {
     public partial class Arithmetic : Form

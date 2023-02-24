@@ -1,4 +1,4 @@
-namespace Module4
+namespace Module4_Arithmetic_Calculator
 {
     internal static class Program
     {
